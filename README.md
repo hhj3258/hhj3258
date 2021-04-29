@@ -33,7 +33,7 @@
 
 ## 대외활동
 - `2021-04` [한국인디게임협회 주관 인디오락실 아이엠그라운드](https://www.youtube.com/watch?v=ovJMKrw8jys): 2:20:05
-- `2020-11` **장려상** SW Week Coding Festival
+- `2020-11` **장려상** [SW Week Coding Festival](https://swweek.hallym.ac.kr/html/contest_02.php)
 
 
 
