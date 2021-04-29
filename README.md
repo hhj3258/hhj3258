@@ -32,7 +32,7 @@
 - `2021-01` [원신 데미지 계산기](https://github.com/hhj3258/Genshin_DamageFormulaCalculator):
 
 ## 대외활동
-- `2021-04` [한국인디게임협회 주관 인디오락실 아이엠그라운드](https://www.youtube.com/watch?v=ovJMKrw8jys): 2:20:05
+- `2021-04` [한국인디게임협회 주관 인디오락실 아이엠그라운드](https://www.youtube.com/watch?v=ovJMKrw8jys) **2:20:05**
 - `2020-11` **장려상** [SW Week Coding Festival](https://swweek.hallym.ac.kr/html/contest_02.php)
 
 
