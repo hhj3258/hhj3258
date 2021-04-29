@@ -1,16 +1,22 @@
-### Hi there 👋
+# **나를 소개해볼까?**
 
-<!--
-**hhj3258/hhj3258** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 홍현준's Introduction
 
-Here are some ideas to get you started:
+게임 프로그래머를 향해 내딛는 중입니다. 근데 이제 물리를 끼얹은...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contacts
+
+- 이메일 : hhj3258@gmail.com
+- Github : [hhj3258](https://github.com/hhj3258)
+
+## Personal Experiences
+
+### Game
+
+- `2020-12` [Multi Maze Runner](https://github.com/hhj3258/UE4_MultiMazeRunner): 
+- `2020-12` [Rhythm Attack!!](https://github.com/hhj3258/Unity_RhythmAttack): 
+
+### Else
+
+- `2021-01` [세출예산 자동화](https://github.com/hhj3258/ExpenditureBudgets_AutomationProgram): PDF 파일의 데이터 파싱과 EXCEL을 통한 EXPORT
+- `2021-01` [경기도 지역화폐 API](https://github.com/hhj3258/JAVA_Gyeonggi-do_LocalCurrency_API_Table-Map): 
