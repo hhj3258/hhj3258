@@ -1,7 +1,18 @@
-## 게임 프로그래머를 향해 내딛는 중입니다. 근데 이제 물리를 끼얹은...
+### 게임 프로그래머를 향해 가는 중입니다. 근데 이제 물리를 첨가한...
 
-## ✨[Portfolio is here!](https://github.com/hhj3258/Portfolio)
+재밌어보이는 건 다 합니다!
+### ✨[Who am I?](https://github.com/hhj3258/Portfolio)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hhj3258&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
+<table><tr><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=hhj3258&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+
+</td><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hhj3258&hide_border=true&layout=compact" align="left" style="width: 100%" />
+
+</td></tr></table>  
+
+<br/>  
