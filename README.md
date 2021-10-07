@@ -1,6 +1,6 @@
 ## 게임 프로그래머를 향해 가는 중입니다. 근데 이제 물리를 첨가한...
 
-## ✨[Who am I?](https://github.com/hhj3258/Portfolio)
+## ✨[Who am I?](https://github.com/hhj3258/Portfolio/blob/main/README.md)
 
 
 
