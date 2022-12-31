@@ -1,4 +1,4 @@
-## 게임 프로그래머를 향해 가는 중입니다. 근데 이제 물리를 첨가한...
+## GameDeveloper 홍현준 입니다. 같이 게임 만드실래요? 
 
 ## ✨[Who am I?](https://github.com/hhj3258/Portfolio/blob/main/README.md)
 
