@@ -1,4 +1,4 @@
-## GameDeveloper 홍현준 입니다. 같이 게임 만드실래요? 
+## 같이 게임 만드실래요? 
 
 ## ✨[Who am I?](https://github.com/hhj3258/Portfolio/blob/main/README.md)
 
